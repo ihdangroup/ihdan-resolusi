@@ -1,8 +1,9 @@
 RENCANA PEKERJAAN IKHDAN
 
 - Data Scientist
+   * SQL
 - Fulstack Developer
-  * Backend Developer
+  *Frontend Developer
 - Data Engineer
 - Machine Learning
 - Cyber Security
